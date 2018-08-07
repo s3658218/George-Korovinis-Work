@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Invoker {
 	
-	
+	// try using IF statements comparing casting[i][j] to randomspell
 	
 	public static void main(String[] args) {
 		
